@@ -2,8 +2,8 @@
 
 🙃I am Nombheko Khoza, a final year undergraduate IT Robotics student. 
 🦾I am passionate about robotics engineering and I enjoy seeing how systems are built from start to finish. 
-🌱I am currently working on my final year robotics capstone project; a robot that harvests berries in a greenhouse.
-🐍I use Python and Cpp for my projects. 
+🌱I am currently working on my capstone project; a robotic system that harvests berries in a greenhouse.
+🐍I use Python and C++ for my projects. 
 
 📩How to reach me:
 LinkedIn: www.linkedin.com/in/nombheko-khoza
